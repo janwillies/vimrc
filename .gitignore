@@ -1,6 +1,8 @@
 # Ignore everything
 /*
 
+.netrwhist
+
 # But not these files...
 !.gitignore
 !.vimrc
